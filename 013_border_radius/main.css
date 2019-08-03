@@ -1,0 +1,27 @@
+div {
+    width: 500px;
+    height: 300px;
+    border: 1px solid red;
+    border-radius: 45px;
+    background-image: url("pirate.png");
+    background-size:  cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    border: 10px groove orange;
+    border-radius: 55px;
+
+}
+.pirateone {
+    border: 10px double orchid;
+    
+}
+.piratetwo {
+    border: 10px dotted palegoldenrod;
+    
+}
+.piratethree {
+    border: 10px dashed powderblue;
+    
+}

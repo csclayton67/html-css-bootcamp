@@ -1,0 +1,22 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+img {
+    border: 10px groove orange;
+
+}
+.pirateone {
+    border: 10px double orchid;
+    
+}
+.piratetwo {
+    border: 10px dotted palegoldenrod;
+    
+}
+.piratethree {
+    border: 10px dashed powderblue;
+    
+}
