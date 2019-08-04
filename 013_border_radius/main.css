@@ -9,6 +9,8 @@ div {
 }
 
 img {
+    width: 300px;
+    height: 100px;
     border: 10px groove orange;
     border-radius: 55px;
 
